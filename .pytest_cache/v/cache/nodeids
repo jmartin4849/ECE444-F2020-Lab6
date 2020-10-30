@@ -1,0 +1,8 @@
+[
+  "tests/app_test.py::test_database",
+  "tests/app_test.py::test_delete_message",
+  "tests/app_test.py::test_empty_db",
+  "tests/app_test.py::test_index",
+  "tests/app_test.py::test_login_logout",
+  "tests/app_test.py::test_messages"
+]
